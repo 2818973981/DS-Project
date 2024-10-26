@@ -57,7 +57,7 @@ Users can like, comment on, and share posts within the community. They can also 
 - For backend, we also need to use `flask` to build the API, communicate with frontend
 - Most important, smartly use AI, which may save a lot of time!
 
-## 6. Colaboration
+## 6. Collaboration
 - Since the beginning point of everyone may differs, so I recommand for each of our member to take care of one field, learn the concepts, and share your new findings with the other members! 
 
 
