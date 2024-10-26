@@ -4,6 +4,8 @@
 
 This app merges the features of a restaurant recommendation system with those of a social media platform. It allows users to discover restaurants through detailed filtering options while providing a social community for sharing dining experiences, recipes, and tips.
 
+Since the beginning point of everyone may differs, so I recommand for each of our member to take care of one field, learn the concepts, and share your new findings with the other members! 
+
 ---
 
 ## 2. Key Features
@@ -49,7 +51,7 @@ Users can like, comment on, and share posts within the community. They can also 
 ## 5. Prerequisites
 - Basic Python 
 - Basic concepts about web development(html, css, javascript)
-- Recommandation systems - [url](https://github.com/grahamjenson/list_of_recommender_systems)
+- Recommandation systems - [reference](https://github.com/grahamjenson/list_of_recommender_systems)
 - For frontend, `flask` is a nice package for us
 - For backend, we also need to use `flask` to build the API, communicate with frontend
 - Most important, smartly use AI, which may save a lot of time!
