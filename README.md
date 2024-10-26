@@ -46,5 +46,5 @@ Users can like, comment on, and share posts within the community. They can also 
 
 ---
 
-![App Interface Design](readme.png)
+![App Interface Design](readme.jpg)
 
