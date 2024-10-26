@@ -1,29 +1,50 @@
 # DS-Project
-1. Project Overview
-This app combines the functionalities of a restaurant recommendation system with a social media platform. Users can not only discover restaurants through advanced filtering features but also participate in a foodie community to share dining experiences, recipes, and tips.
 
-2. Key Features
-Restaurant Search and Filter Functions:
-- Offers detailed filtering options, including cuisine type (e.g., Italian, Japanese, Chinese), price range, distance, and ratings.
-- Displays ratings directly on the search page, simplifying the process of checking restaurant details.
-- Recommends restaurants based on proximity and user ratings, helping users make faster decisions.
+## 1. Project Overview
 
-Social Media Features:
-- Features a dedicated social page where users can share their dining experiences.
-- Users can upload photos of the food they ordered and write about their experiences, making it easier for others to discover new places.
-- Posts include direct links to restaurant profiles, enabling users to learn more about places they see in their feed.
-- This social page is not limited to restaurant recommendations; users can share recipes, dietary advice, cooking techniques, and more.
+This app merges the features of a restaurant recommendation system with those of a social media platform. It allows users to discover restaurants through detailed filtering options while providing a social community for sharing dining experiences, recipes, and tips.
 
-Data-Driven Personalization:
-- Uses big data to personalize recommendations based on user preferences, browsing history, and social activity, suggesting restaurants, recipes, and trending food posts.
-- Users receive dining suggestions tailored to their location, preferred cuisines, and price range.
+---
 
-3. User Journey
-Step 1: Browse the Social Feed
-Users can explore community posts that showcase other users' dining experiences, food photos, recipes, and tips. Posts that interest the user can be clicked to navigate directly to restaurant profiles or other relevant pages.
-Step 2: Discover Restaurants
-On the homepage, users can apply filters to search for specific types of restaurants (by cuisine type, price range, etc.). After filtering, a list of suitable restaurants with ratings will be displayed. Users can click on a restaurant for more details, including its menu, reviews, and location.
-Step 3: Engage with Content
-Users can interact with posts by liking, commenting, and following others with similar tastes. They can also share their own dining experiences, recipe ideas, and cooking tips with the community.
+## 2. Key Features
 
-4. Future Development Plans
+### Restaurant Search and Filter Functions:
+- Advanced filtering by cuisine type (e.g., Italian, Japanese, Chinese), price range, distance, and ratings.
+- Ratings displayed directly on the search page, simplifying the restaurant selection process.
+- Recommendations based on proximity and user ratings, helping users make decisions faster.
+
+### Social Media Features:
+- A social feed dedicated to sharing dining experiences, food photos, and restaurant reviews.
+- Users can upload images of their meals and share detailed reviews of their dining experiences.
+- Posts include direct links to restaurant profiles, making it easier to explore dining options from the social feed.
+- In addition to restaurant reviews, users can share recipes, cooking techniques, and dietary tips.
+
+### Data-Driven Personalization:
+- Personalized recommendations based on user preferences, browsing history, and social activity.
+- Users receive dining suggestions tailored to their location, preferred cuisine, and price range.
+- Trends and popular restaurants or recipes are highlighted for users based on their engagement with the platform.
+
+---
+
+## 3. User Journey
+
+### Step 1: Browse the Social Feed
+Users can explore posts that highlight other users’ dining experiences, recipes, and tips. Posts can be clicked to navigate directly to restaurant profiles or other relevant content.
+
+### Step 2: Discover Restaurants
+Users can search for restaurants using filters for cuisine, price range, and distance. The search results are displayed with ratings and additional details, and users can click on a restaurant to learn more.
+
+### Step 3: Engage with Content
+Users can like, comment on, and share posts within the community. They can also contribute by sharing their own dining experiences, recipes, and cooking tips.
+
+---
+
+## 4. Future Development Plans
+- **Enhanced recommendation algorithms**: Incorporate machine learning to improve restaurant suggestions based on user interactions.
+- **User experience improvements**: Further refine the interface to enhance usability and engagement.
+- **Integration with delivery platforms**: Allow users to order directly from the app for a seamless dining experience.
+
+---
+
+![App Interface Design](readme.png)
+
