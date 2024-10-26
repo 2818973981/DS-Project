@@ -1,10 +1,12 @@
 # DS-Project
 
+## Since the beginning point of everyone may differs, so I recommand for each of our member to take care of one field, learn the concepts, and share your new findings with the other members! 
+
 ## 1. Project Overview
 
 This app merges the features of a restaurant recommendation system with those of a social media platform. It allows users to discover restaurants through detailed filtering options while providing a social community for sharing dining experiences, recipes, and tips.
 
-Since the beginning point of everyone may differs, so I recommand for each of our member to take care of one field, learn the concepts, and share your new findings with the other members! 
+
 
 ---
 
