@@ -48,10 +48,11 @@ Users can like, comment on, and share posts within the community. They can also 
 
 ## 5. Prerequisites
 - Basic Python 
-- Basic concepts about web development
+- Basic concepts about web development(html, css, javascript)
 - Recommandation systems
 - For frontend, `flask` is a nice package for us
 - For backend, we also need to use `flask` to build the API, communicate with frontend
+- Most important, smartly use AI, which may save a lot of time!
 
 ---
 
